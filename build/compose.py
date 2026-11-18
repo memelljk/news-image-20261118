@@ -133,8 +133,7 @@ panel(img, draw, "media-generation-panel-nvidia-0-bf2ebba0-a99d-414b-b1be-d28839
       16, y3, 488, 105,
       "MARKETS",
       "Nvidia shares climb after record quarter",
-      "Shares rose 3–4% after hours on $115.8bn sales, up 103%; the board declined "
-      "to bring back Jensen Huang.",
+      "Shares rose 3–4% after hours on $115.8bn sales, up 103%.",
       24, 14, focus_y=0.5)
 panel(img, draw, "media-generation-panel-gulf-0-8fc068f9-3263-4a23-a47e-9c80c8162c27.webp",
       520, y3, 488, 105,
